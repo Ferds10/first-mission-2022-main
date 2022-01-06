@@ -1,0 +1,107 @@
+body{
+    font-style: italic;
+    margin: 0%;
+}
+h1{
+    font-size: 40px;
+
+}
+
+.mission-2022{
+    color: orange;
+}
+
+.flexible-container{
+
+    display: flex;
+
+    margin-bottom: 15px;
+
+}
+.half-width{
+
+    width: 50%;
+
+    padding-left: 10%;
+}
+
+.half-width img{
+
+    width: 80%;
+}
+	
+.link-button{
+
+    text-decoration: none;
+
+    background-image: linear-gradient(orange, tomato);
+
+    padding: 10px 40px;
+
+    color: white;
+
+    font-weight: 700;
+
+    border-radius: 10px;
+
+}
+	
+#my-mission-item{
+
+    width: 150%;
+
+    margin-left: 10%;
+
+    margin-right: 5%;
+
+    margin-bottom: 10;
+
+    background-color: lavender;
+
+    border-radius: 20px;
+    padding: auto;
+
+}
+	
+#my-vision{
+    width: 150%;
+
+    margin-left: 5%;
+
+    margin-right: 5%;
+
+    margin-bottom: 10px;
+
+    background-color: lemonchiffon;
+
+    border-radius: 20px;
+    padding: auto;
+}
+
+#my-goal{
+    width: 150%;
+
+    margin-left: 5%;
+
+    margin-right: 10%;
+
+    margin-bottom: 10px;
+
+    background-color: lightgray;
+
+    border-radius: 20px;
+
+    padding: auto;
+}
+
+
+
+#footer-bg-color{
+    background-color: black;
+    color: whitesmoke;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.different-color{
+    color: orangered;
+}
